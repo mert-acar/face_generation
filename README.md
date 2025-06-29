@@ -2,7 +2,7 @@
 
 **Author**: Mert Acar
 
-This project implements a deep learning solution for removing beards on facial images. The implementation includes various model architectures, training pipelines, and evaluation metrics. This project is the submission for the case study.
+This project implements a deep learning solution for removing beards on facial images. The implementation includes various model architectures, training pipelines, and evaluation metrics. This project is the submission for a case study.
 
 ## Project Structure
 
@@ -17,7 +17,7 @@ This project implements a deep learning solution for removing beards on facial i
 │   ├── train.py          # Training pipeline
 │   ├── utils.py          # General utility functions
 │   └── visualize.py      # Visualization utilities
-└── AppNation_case_study.ipynb  # Main notebook with examples and usage
+└── case_study.ipynb      # Main notebook with examples and usage
 ```
 
 ## Features
