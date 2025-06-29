@@ -46,7 +46,7 @@ This project implements a deep learning solution for removing beards on facial i
 
 1. Install the required packages:
 ```bash
-pip install -r requirements.txt
+uv pip sync pyproject.toml
 ```
 
 2. Open and run the `case_study.ipynb` notebook for examples and usage.
